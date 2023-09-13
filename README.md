@@ -1,2 +1,2 @@
-# flipkart-clone
-Simple clone e-commerce site using HTML,CSS JAVASCRIPT .
+# flipkart-clone-html-css-and-javascript
+flipkart clone html css and javascript
